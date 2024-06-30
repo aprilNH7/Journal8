@@ -28,6 +28,4 @@ Testing with added layers of security presented challenges, as it involved verif
 
 A: This course has been great in helping me achieve my professional goals by equipping me with essential and important skills in full stack development. I have learned to design and apply complex web applications, manage databases, and make sure secure data exchange between frontend and backend systems occured. The hands-on experience with numerous technologies and frameworks has increased my problem-solving abilities and made me a more marketable candidate in the tech industry. By mastering tools and techniques such as SPA architecture, NoSQL databases, and extensive API testing, I am now better prepared to tackle real-world challenges in my career.
 
-- Individual README.md files in zip projects. 
-
-How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
+- Individual README.md files in zip projects.
